@@ -29,7 +29,7 @@
 					<b>Email id:</b>xyz@gmail.com
 				</p>
 				<p>
-					<b>Mobile no :</b>1234567890
+					<b>Mobile no :</b>0987654321
 				</p>
 			</div>
 			<div class="Skills">
